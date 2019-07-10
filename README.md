@@ -1,6 +1,8 @@
-# react-template
+# Sovereign Nature Frontend
 
-This is a work in progress and might change a bit.
+
+
+This is a work in progress and might change a bit. 
 
 This starter project uses
 * [react](https://reactjs.org/) to create a component-based user interface
