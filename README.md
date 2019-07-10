@@ -4,7 +4,7 @@
 
 This is a work in progress and might change a bit. 
 
-This starter project uses
+This project uses
 * [react](https://reactjs.org/) to create a component-based user interface
 * [redux](https://redux.js.org/) for state managment
 * [RxJS](https://rxjs-dev.firebaseapp.com/) Redux reactive programming library
